@@ -1,33 +1,51 @@
-Projeto Podcast Gerado por I.A.s
+<p align="center">
+<img 
+    src="1759326951395.jpg"
+    width="300"
+/>
+</p>
 
-ℹ️ NOTE: Este é o repositório desenvolvido durante um bootcamp do Santander em parceria com a DIO
+<p align="center">
+    preview do podcast
+</p>
+
+<div align="center">
+    <audio src="ElevenLabs_2025-10-01T15_41_53_Jessica_pre_sp120_s50_sb75_v3.mp3" controls title="Podcast editado"></audio>
+</div>
+
+# Projeto Podcast Gerado por I.A.s
+
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante um bootcamp do Santander em parceria com a DIO
 
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 
-💻 Tecnologias utilizadas no projeto
 
-ChatGPT
+## 💻 Tecnologias utilizadas no projeto
 
-Gemini
+- [ChatGPT](https://chat.openai.com/)
 
-ElevenLabs
+- Gemini
 
-✨ Como foi feito ?
+- [ElevenLabs](https://beta.elevenlabs.io/)
 
-Roteiro gerado via chatgpt
 
-Audio gerado pela elevenLabs
+## ✨ Como foi feito ?
 
-Gemini Para gerar capas
+- Roteiro gerado via chatgpt
 
-🛠️ Instruções de execução
+- Audio gerado pela elevenLabs
+
+- Gemini Para gerar capas
+
+
+## 🛠️ Instruções de execução
 
 Utilize prompts para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-🤖 1. Use os prompts de roteiro no chagpt
+- 🤖 1. Use os prompts de roteiro no `chagpt`
 
 Prompt para o título: Estou fazendo um projeto de criação de podcast usando IA, para um bootcamp do santander em parceria com a DIO.me que estou participando. 
 O nicho do meu podcast é o pessoal da tecnologia, por isso quero que crie um título para meu podcast pensando no público alvo. 
@@ -82,9 +100,9 @@ Regras:
 -- Não ultrapasse 2 minutos de duração
 
 
-🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
+- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 
-🤖 3. Use os prompts de artes no gemini
+- 🤖 3. Use os prompts de artes no gemini
 
 Enviei minha foto e dei o seguinte prompt para criação da imagem: 
 
@@ -96,3 +114,8 @@ Tema/Pessoa: Uma podcaster jovem, cabelo longo e vermelho, sorrindo com um micro
 iluminação cinematográfica dinâmica, iluminação global, resolução ultra-realista, fotografia ultra detalhada.
 
 ​Parâmetros: --ar 1:1 --v 5.2
+
+
+
+
+por [LeniseNovais]
